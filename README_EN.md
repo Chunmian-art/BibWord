@@ -4,7 +4,6 @@
 
 > **Experimental v0.2**: Add BibTeX-based citations to Microsoft Word for Mac without Zotero. Paste BibTeX, import `.bib` files, insert citations by citation key, and generate a simple numbered bibliography.
 >
-> ⚠️ This project has **not** been fully tested end to end across real Mac Word environments. **Use a copy of your document for testing**, not your only production copy.
 
 ## Features
 
