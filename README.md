@@ -2,7 +2,7 @@
 
 [English](README_EN.md) | **简体中文**
 
-> **实验版 v0.2**：在 Microsoft Word for Mac 中使用 BibTeX 引用，不需要 Zotero。支持粘贴 BibTeX、导入 `.bib`、通过 citation key 插入引用，以及生成简化的数字编号参考文献。
+> **实验版 v0.2**：在 Microsoft Word for Mac 中使用 BibTeX 引用。支持粘贴 BibTeX、导入 `.bib`、通过 citation key 插入引用，以及生成简化的数字编号参考文献，极大加速写本子的速度。
 >
 
 ## 功能
